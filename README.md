@@ -1,17 +1,19 @@
-# Machine-Learning-
+# Machine-Learning
 Tasks:
 
 1) K-means Clustering (Kmean.ipynb):
 
-Implement the K-means clustering algorithm on a dataset of your choice.
-Visualize the clustered data and analyze the results.
-Experiment with different values of K and observe the impact on clustering.
+Implement K-Means clustering on socio-economic and health data of countries.
+Explore optimal cluster numbers, visualize results, and interpret cluster characteristics.
+Analyze how K-Means clusters contribute to determining the overall country development.
+Provide insights into significant factors driving the clustering outcomes.
 
 2) K-medoids Clustering (kmedoid.ipynb):
 
-Implement the K-medoids clustering algorithm on a dataset.
-Compare and contrast the results with those obtained from K-means clustering.
-Discuss scenarios where K-medoids might be preferable.
+Apply K-Medoid clustering to the same socio-economic and health dataset.
+Compare clustering results with K-Means, highlighting differences and similarities.
+Discuss the implications of K-Medoid clusters for assessing country development.
+Identify and interpret key socio-economic and health factors shaping K-Medoid clusters.
 
 3) Linear Regression (Linear_Regression.ipynb):
 
