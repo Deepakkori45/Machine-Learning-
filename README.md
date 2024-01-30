@@ -25,3 +25,7 @@ Evaluate the model's performance using appropriate metrics.
 Implement the DBSCAN algorithm on a dataset with varying densities.
 Visualize the clusters and identify outliers.
 Discuss situations where DBSCAN is advantageous over other clustering methods.
+
+**Limitation of Silhouette score:**
+
+<img src="https://github.com/Deepakkori45/Machine-Learning-/assets/111627339/2207d01f-9e1a-47e0-abe4-9e871c6636a3" alt="image" width="500" height="300">
