@@ -29,3 +29,7 @@ Discuss situations where DBSCAN is advantageous over other clustering methods.
 **Limitation of Silhouette score:**
 
 <img src="https://github.com/Deepakkori45/Machine-Learning-/assets/111627339/2207d01f-9e1a-47e0-abe4-9e871c6636a3" alt="image" width="500" height="300">
+
+# PCA
+
+Matrix Visualization: https://shad.io/MatVis/
